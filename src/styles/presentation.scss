@@ -19,6 +19,12 @@
     height: 246px;
   }
 
+  &__video {
+    height: 100%;
+    width: 100%;
+    display: none;
+  }
+
   &__record-player {
     width: $recordPlayerSize;
     height: $recordPlayerSize;
